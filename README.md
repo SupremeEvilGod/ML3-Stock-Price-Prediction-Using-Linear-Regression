@@ -19,7 +19,7 @@ This project demonstrates how to use **Linear Regression** to predict stock mark
 
 ## Dataset
 
-The dataset is fetched in real-time from stock data APIs (like Yahoo Finance) and contains the following columns:
+The dataset is fetched in real-time from stock data APIs (like Yahoo Finance/Alpha Vantage API/IEX Cloud API) and contains the following columns:
 
 - **Datetime:** Timestamp of the stock price
 - **Open:** Opening price of the stock
